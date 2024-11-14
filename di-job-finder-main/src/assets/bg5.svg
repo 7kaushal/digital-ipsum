@@ -1,0 +1,19 @@
+<svg width="1440" height="241" viewBox="0 0 1440 241" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1440" height="241" fill="#FEEDE6"/>
+<mask id="mask0_0_6460" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="241">
+<rect width="1440" height="241" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_6460)">
+<g opacity="0.24">
+<mask id="mask1_0_6460" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="855" y="-248" width="653" height="653">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1412.37 309.37C1284.86 436.877 1078.14 436.877 950.63 309.37C823.123 181.864 823.123 -24.8642 950.63 -152.37C1078.14 -279.877 1284.86 -279.877 1412.37 -152.37C1539.88 -24.8642 1539.88 181.864 1412.37 309.37Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_0_6460)">
+<path d="M1549.39 107.6H847.478" stroke="#FA6402" stroke-width="2" stroke-dasharray="40 40"/>
+<path d="M1549.39 216.454H847.478" stroke="#FA6402" stroke-width="2" stroke-dasharray="40 40"/>
+<path opacity="0.25" d="M1571.8 53.1725H869.893" stroke="#576867" stroke-width="2" stroke-dasharray="40 40"/>
+<path opacity="0.25" d="M1528.89 161.386H826.985" stroke="#576867" stroke-width="2" stroke-dasharray="40 40"/>
+</g>
+</g>
+</g>
+</svg>
